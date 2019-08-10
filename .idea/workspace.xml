@@ -1,7 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="98082e50-6beb-490e-92c2-0c4ede07f06e" name="Default Changelist" comment="" />
+    <list default="true" id="80d8eea5-0eca-4540-b290-fe1c150976c7" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/page/omsPage/operatorManage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testCase/omsTestCase/test3_userManageOperator.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/base/basePage.py" beforeDir="false" afterPath="$PROJECT_DIR$/base/basePage.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/data.xml" beforeDir="false" afterPath="$PROJECT_DIR$/data/data.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/helloworld.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/page/omsPage/init.py" beforeDir="false" afterPath="$PROJECT_DIR$/page/omsPage/init.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/page/omsPage/login.py" beforeDir="false" afterPath="$PROJECT_DIR$/page/omsPage/login.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/page/omsPage/userManage.py" beforeDir="false" afterPath="$PROJECT_DIR$/page/omsPage/userManage.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/2019-07-12 15_17_23_report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/2019-07-13 09_03_09_report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/2019-07-13 11_03_32_report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/2019-07-13 11_31_58_report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/2019-07-13 12_31_05_report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/2019-07-15 11_30_14_report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/2019-07-15 11_30_35_report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/2019-07-15 11_38_41_report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/2019-07-15 11_41_47_report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/2019-07-15 11_51_32_report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/2019-07-15 12_39_17_report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/2019-07-15 12_39_37_report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/2019-07-23 15_07_31_report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/2019-07-23 15_08_02_report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/2019-07-23 15_53_56_report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/run.py" beforeDir="false" afterPath="$PROJECT_DIR$/run.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testCase/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/testCase/omsTestCase/test1_login.py" beforeDir="false" afterPath="$PROJECT_DIR$/testCase/omsTestCase/test1_login.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testCase/omsTestCase/test2_userManage.py" beforeDir="false" afterPath="$PROJECT_DIR$/testCase/omsTestCase/test2_userManage.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testCase/testCase01.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/testCase/tianhuatest.py" beforeDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -9,42 +39,24 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="525">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/utils/readXML.py">
+        <entry file="file://$PROJECT_DIR$/page/omsPage/operatorManage.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1104">
-              <caret line="47" column="34" selection-start-line="47" selection-start-column="34" selection-end-line="47" selection-end-column="34" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/run.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="125">
-              <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+            <state>
+              <caret line="37" column="8" selection-start-line="37" selection-start-column="8" selection-end-line="37" selection-end-column="8" />
               <folding>
-                <element signature="e#23#32#0" expanded="true" />
+                <element signature="e#59#63#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/data/data.xml">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/page/omsPage/userManage.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="192">
-              <caret line="8" column="12" selection-start-line="8" selection-start-column="12" selection-end-line="8" selection-end-column="61" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/page/omsPage/login.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="576">
-              <caret line="26" column="16" lean-forward="true" selection-start-line="26" selection-start-column="16" selection-end-line="26" selection-end-column="16" />
+            <state relative-caret-position="385">
+              <caret line="177" column="21" lean-forward="true" selection-start-line="177" selection-start-column="21" selection-end-line="177" selection-end-column="21" />
               <folding>
                 <element signature="e#42#69#0" expanded="true" />
               </folding>
@@ -53,24 +65,60 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/base/basePage.py">
+        <entry file="file://$PROJECT_DIR$/page/omsPage/init.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="384">
-              <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+            <state relative-caret-position="357">
+              <caret line="18" selection-start-line="18" selection-end-line="18" />
               <folding>
-                <element signature="e#23#104#0" expanded="true" />
+                <element signature="e#23#53#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/testCase/omsTestCase/test1_login.py">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/testCase/omsTestCase/test4_operatorManage.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="412">
-              <caret line="68" column="21" lean-forward="true" selection-start-line="68" selection-start-column="21" selection-end-line="68" selection-end-column="21" />
+            <state relative-caret-position="392">
+              <caret line="17" column="26" selection-start-line="17" selection-start-column="26" selection-end-line="17" selection-end-column="26" />
               <folding>
-                <element signature="e#42#74#0" expanded="true" />
+                <element signature="e#42#83#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/page/omsPage/merchantManage.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="189">
+              <caret line="17" column="40" selection-start-line="17" selection-start-column="40" selection-end-line="17" selection-end-column="40" />
+              <folding>
+                <element signature="e#63#90#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/testCase/omsTestCase/test5_merchantManage_merchant.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="364">
+              <caret line="19" column="21" lean-forward="true" selection-start-line="19" selection-start-column="21" selection-end-line="19" selection-end-column="21" />
+              <folding>
+                <element signature="e#42#83#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/testCase/omsTestCase/test3_userManageOperator.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="308">
+              <caret line="29" column="25" lean-forward="true" selection-start-line="29" selection-start-column="25" selection-end-line="29" selection-end-column="25" />
+              <folding>
+                <element signature="e#66#103#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -79,41 +127,11 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/testCase/omsTestCase/test2_userManage.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="15" selection-start-line="15" selection-end-line="15" />
+            <state relative-caret-position="3780">
+              <caret line="137" column="21" selection-start-line="137" selection-start-column="21" selection-end-line="137" selection-end-column="21" />
               <folding>
-                <element signature="e#42#74#0" expanded="true" />
+                <element signature="e#65#102#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3/unittest/__init__.pyi">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="864">
-              <caret line="43" column="8" selection-start-line="43" selection-start-column="8" selection-end-line="43" selection-end-column="8" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/page/omsPage/userManage.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="600">
-              <caret line="28" selection-start-line="28" selection-end-line="28" />
-              <folding>
-                <element signature="e#42#69#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../../software/Anaconda3/Lib/site-packages/selenium/webdriver/common/by.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="528">
-              <caret line="22" column="6" selection-start-line="22" selection-start-column="6" selection-end-line="22" selection-end-column="6" />
             </state>
           </provider>
         </entry>
@@ -127,45 +145,64 @@
       </list>
     </option>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>saveMsg_loc</find>
+      <find>typeUsername</find>
+      <find>clickAddUser</find>
+      <find>typeEmployeeName</find>
+      <find>typeEmployeeNo</find>
+      <find>不停用用户状态应为正常断言</find>
+      <find>self.newUser</find>
+      <find>selectAuth</find>
+      <find>TestUserManage.newUser</find>
+      <find>add_operator</find>
+      <find>运营商用户管理</find>
+      <find>search_user</find>
+      <find>search</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>TestUserManage.newUser</replace>
+      <replace>self.newUser</replace>
+      <replace>search_by_username</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/base/basePage.py" />
-        <option value="$PROJECT_DIR$/page/p_login.py" />
-        <option value="$PROJECT_DIR$/page/init.py" />
-        <option value="$PROJECT_DIR$/testCase/testCase01.py" />
-        <option value="$PROJECT_DIR$/testCase/debugger.py" />
-        <option value="$PROJECT_DIR$/testCase/temp01.py" />
-        <option value="$PROJECT_DIR$/page/p_title.py" />
-        <option value="$PROJECT_DIR$/page/p_home.py" />
-        <option value="$PROJECT_DIR$/page/operationManager/sysMaintenance.py" />
-        <option value="$PROJECT_DIR$/testCase/tianhuatest.py" />
-        <option value="$PROJECT_DIR$/testCase/omsTestCase/userManage.py" />
-        <option value="$PROJECT_DIR$/page/webPage/init.py" />
-        <option value="$PROJECT_DIR$/testCase/omsTestCase/test_userManage.py" />
         <option value="$PROJECT_DIR$/run.py" />
-        <option value="$PROJECT_DIR$/data/data.xml" />
-        <option value="$PROJECT_DIR$/page/omsPage/login.py" />
-        <option value="$PROJECT_DIR$/page/omsPage/userManage.py" />
-        <option value="$PROJECT_DIR$/testCase/omsTestCase/test2_userManage.py" />
-        <option value="$PROJECT_DIR$/utils/readXML.py" />
-        <option value="$PROJECT_DIR$/page/omsPage/init.py" />
         <option value="$PROJECT_DIR$/testCase/omsTestCase/test1_login.py" />
+        <option value="$PROJECT_DIR$/testCase/omsTestCase/test3_operatorManage.py" />
+        <option value="$PROJECT_DIR$/page/omsPage/userManageOperator.py" />
+        <option value="$PROJECT_DIR$/data/data.xml" />
+        <option value="$PROJECT_DIR$/testCase/omsTestCase/test2_userManage.py" />
+        <option value="$PROJECT_DIR$/page/omsPage/userManage.py" />
+        <option value="$PROJECT_DIR$/testCase/omsTestCase/test3_userManageOperator.py" />
+        <option value="$PROJECT_DIR$/page/omsPage/login.py" />
+        <option value="$PROJECT_DIR$/page/omsPage/init.py" />
+        <option value="$PROJECT_DIR$/base/basePage.py" />
+        <option value="$PROJECT_DIR$/page/omsPage/operatorManage.py" />
+        <option value="$PROJECT_DIR$/testCase/omsTestCase/test4_operatorManage.py" />
+        <option value="$PROJECT_DIR$/page/omsPage/customerManage.py" />
+        <option value="$PROJECT_DIR$/page/omsPage/merchantManage.py" />
+        <option value="$PROJECT_DIR$/testCase/omsTestCase/test5_merchantManage_merchant.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="260" />
-    <option name="y" value="20" />
-    <option name="width" value="1400" />
-    <option name="height" value="1000" />
+    <option name="x" value="507" />
+    <option name="y" value="91" />
+    <option name="width" value="1340" />
+    <option name="height" value="688" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -197,6 +234,11 @@
             <path>
               <item name="webUIProject" type="b2602c69:ProjectViewProjectNode" />
               <item name="webUIProject" type="462c0819:PsiDirectoryNode" />
+              <item name="report" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="webUIProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="webUIProject" type="462c0819:PsiDirectoryNode" />
               <item name="testCase" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -205,39 +247,29 @@
               <item name="testCase" type="462c0819:PsiDirectoryNode" />
               <item name="omsTestCase" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="webUIProject" type="b2602c69:ProjectViewProjectNode" />
-              <item name="webUIProject" type="462c0819:PsiDirectoryNode" />
-              <item name="utils" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="fileTemplates" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Console Font" />
+    <property name="settings.editor.splitter.proportion" value="0.22461863" />
   </component>
   <component name="PyConsoleOptionsProvider">
     <option name="myPythonConsoleState">
-      <console-settings module-name="untitled1" is-module-sdk="true">
+      <console-settings module-name="webUIProject" is-module-sdk="true">
         <option name="myUseModuleSdk" value="true" />
-        <option name="myModuleName" value="untitled1" />
+        <option name="myModuleName" value="webUIProject" />
       </console-settings>
     </option>
-  </component>
-  <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="E:\autotest\project\webUIProject\page\webPage" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="E:\autotest\project\webUIProject\data" />
-    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -251,31 +283,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python tests.Unittests in test1_login.py">
-    <configuration name="run" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="untitled1" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/run.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Unittests for test1_login.TestLogin.test1_login_success" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
-      <module name="untitled1" />
+  <component name="RunManager" selected="Python tests.Unittests in test5_merchantManage_merchant.py">
+    <configuration name="Unittests for test3_userManageOperator.TestOperatorUserManager.test01_addOperatorUser" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="webUIProject" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
@@ -285,12 +295,12 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test1_login.TestLogin.test1_login_success&quot;" />
+      <option name="_new_target" value="&quot;test3_userManageOperator.TestOperatorUserManager.test01_addOperatorUser&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Unittests for test2_userManage.TestUserManage.testcase1_addUser" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
-      <module name="untitled1" />
+    <configuration name="Unittests for test4_operatorManage.TestOperatorManage.test02_search" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="webUIProject" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
@@ -300,27 +310,27 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test2_userManage.TestUserManage.testcase1_addUser&quot;" />
+      <option name="_new_target" value="&quot;test4_operatorManage.TestOperatorManage.test02_search&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Unittests in init.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
-      <module name="untitled1" />
+    <configuration name="Unittests in test3_userManageOperator.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="webUIProject" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/page/omsPage" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/testCase/omsTestCase" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/page/omsPage/init.py&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/testCase/omsTestCase/test3_userManageOperator.py&quot;" />
       <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Unittests in test1_login.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
-      <module name="untitled1" />
+    <configuration name="Unittests in test4_operatorManage.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="webUIProject" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
@@ -330,17 +340,32 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/testCase/omsTestCase/test1_login.py&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/testCase/omsTestCase/test4_operatorManage.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests in test5_merchantManage_merchant.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="webUIProject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/testCase/omsTestCase" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/testCase/omsTestCase/test5_merchantManage_merchant.py&quot;" />
       <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python tests.Unittests in test1_login.py" />
-        <item itemvalue="Python.run" />
-        <item itemvalue="Python tests.Unittests for test1_login.TestLogin.test1_login_success" />
-        <item itemvalue="Python tests.Unittests in init.py" />
-        <item itemvalue="Python tests.Unittests for test2_userManage.TestUserManage.testcase1_addUser" />
+        <item itemvalue="Python tests.Unittests in test5_merchantManage_merchant.py" />
+        <item itemvalue="Python tests.Unittests in test4_operatorManage.py" />
+        <item itemvalue="Python tests.Unittests for test4_operatorManage.TestOperatorManage.test02_search" />
+        <item itemvalue="Python tests.Unittests in test3_userManageOperator.py" />
+        <item itemvalue="Python tests.Unittests for test3_userManageOperator.TestOperatorUserManager.test01_addOperatorUser" />
       </list>
     </recent_temporary>
   </component>
@@ -349,86 +374,78 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="98082e50-6beb-490e-92c2-0c4ede07f06e" name="Default Changelist" comment="" />
-      <created>1562893647308</created>
+      <changelist id="80d8eea5-0eca-4540-b290-fe1c150976c7" name="Default Changelist" comment="" />
+      <created>1564191863492</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1562893647308</updated>
-      <workItem from="1562893648759" duration="16840000" />
-      <workItem from="1562978737208" duration="4228000" />
-      <workItem from="1562983571742" duration="2859000" />
-      <workItem from="1562988601922" duration="3748000" />
-      <workItem from="1563002389708" duration="6846000" />
-      <workItem from="1563152199990" duration="25776000" />
-      <workItem from="1563239586792" duration="4610000" />
-      <workItem from="1563601241160" duration="1130000" />
-      <workItem from="1563864857948" duration="3227000" />
+      <updated>1564191863492</updated>
+      <workItem from="1564191900764" duration="32000" />
+      <workItem from="1564363089345" duration="650000" />
+      <workItem from="1564369133875" duration="40000" />
+      <workItem from="1564535621065" duration="27849000" />
+      <workItem from="1564639189330" duration="98000" />
+      <workItem from="1564640477844" duration="616000" />
+      <workItem from="1564642444752" duration="6285000" />
+      <workItem from="1564967610389" duration="607000" />
+      <workItem from="1565144584008" duration="21241000" />
+      <workItem from="1565226538987" duration="25109000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Unittests_in_init_py - 2019.07.16 at 11h 10m 29s.xml">
-      <configuration name="Unittests in init.py" configurationId="tests" />
+    <history-entry file="Unittests_in_test5_merchantManage_merchant_py - 2019.08.08 at 16h 38m 37s.xml">
+      <configuration name="Unittests in test5_merchantManage_merchant.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_for_test1_login_TestLogin_test1_login_success - 2019.07.16 at 11h 11m 10s.xml">
-      <configuration name="Unittests for test1_login.TestLogin.test1_login_success" configurationId="tests" />
+    <history-entry file="Unittests_in_test5_merchantManage_merchant_py - 2019.08.08 at 16h 38m 52s.xml">
+      <configuration name="Unittests in test5_merchantManage_merchant.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_in_test1_login_py - 2019.07.16 at 11h 11m 39s.xml">
-      <configuration name="Unittests in test1_login.py" configurationId="tests" />
+    <history-entry file="Unittests_in_test5_merchantManage_merchant_py - 2019.08.08 at 16h 39m 40s.xml">
+      <configuration name="Unittests in test5_merchantManage_merchant.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_for_test1_login_TestLogin_test1_login_success - 2019.07.16 at 11h 13m 59s.xml">
-      <configuration name="Unittests for test1_login.TestLogin.test1_login_success" configurationId="tests" />
+    <history-entry file="Unittests_in_test5_merchantManage_merchant_py - 2019.08.08 at 16h 40m 00s.xml">
+      <configuration name="Unittests in test5_merchantManage_merchant.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_for_test1_login_TestLogin_test1_login_success - 2019.07.16 at 11h 15m 15s.xml">
-      <configuration name="Unittests for test1_login.TestLogin.test1_login_success" configurationId="tests" />
+    <history-entry file="Unittests_in_test5_merchantManage_merchant_py - 2019.08.08 at 16h 40m 52s.xml">
+      <configuration name="Unittests in test5_merchantManage_merchant.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_for_test1_login_TestLogin_test1_login_success - 2019.07.16 at 11h 17m 18s.xml">
-      <configuration name="Unittests for test1_login.TestLogin.test1_login_success" configurationId="tests" />
+    <history-entry file="Unittests_in_test5_merchantManage_merchant_py - 2019.08.08 at 18h 25m 03s.xml">
+      <configuration name="Unittests in test5_merchantManage_merchant.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_for_test1_login_TestLogin_test1_login_success - 2019.07.16 at 11h 21m 53s.xml">
-      <configuration name="Unittests for test1_login.TestLogin.test1_login_success" configurationId="tests" />
+    <history-entry file="Unittests_in_test5_merchantManage_merchant_py - 2019.08.08 at 18h 26m 46s.xml">
+      <configuration name="Unittests in test5_merchantManage_merchant.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_for_test1_login_TestLogin_test1_login_success - 2019.07.16 at 11h 23m 16s.xml">
-      <configuration name="Unittests for test1_login.TestLogin.test1_login_success" configurationId="tests" />
+    <history-entry file="Unittests_in_test5_merchantManage_merchant_py - 2019.08.08 at 18h 29m 44s.xml">
+      <configuration name="Unittests in test5_merchantManage_merchant.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_in_test1_login_py - 2019.07.16 at 11h 26m 38s.xml">
-      <configuration name="Unittests in test1_login.py" configurationId="tests" />
+    <history-entry file="Unittests_in_test5_merchantManage_merchant_py - 2019.08.08 at 18h 31m 06s.xml">
+      <configuration name="Unittests in test5_merchantManage_merchant.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_in_test1_login_py - 2019.07.23 at 15h 29m 08s.xml">
-      <configuration name="Unittests in test1_login.py" configurationId="tests" />
+    <history-entry file="Unittests_in_test5_merchantManage_merchant_py - 2019.08.08 at 18h 35m 35s.xml">
+      <configuration name="Unittests in test5_merchantManage_merchant.py" configurationId="tests" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="69264000" />
-  </component>
-  <component name="TodoView">
-    <todo-panel id="selected-file">
-      <is-autoscroll-to-source value="true" />
-    </todo-panel>
-    <todo-panel id="all">
-      <are-packages-shown value="true" />
-      <is-autoscroll-to-source value="true" />
-    </todo-panel>
+    <option name="totallyTimeSpent" value="82527000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-9" y="-9" width="1938" height="1050" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.29750273" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23333333" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" sideWeight="0.4989142" weight="0.3292232" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.8393051" weight="0.30332923" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.25057736" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.112568304" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.2830601" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" weight="0.3290993" />
+      <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.1606949" side_tool="true" weight="0.41183725" />
-      <window_info anchor="bottom" id="Terminal" order="11" weight="0.20685434" />
-      <window_info anchor="bottom" id="Python Console" order="12" weight="0.3290993" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="11" />
+      <window_info anchor="bottom" id="Python Console" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -440,277 +457,205 @@
     <option name="version" value="1" />
   </component>
   <component name="XDebuggerManager">
-    <watches-manager>
-      <configuration name="PythonConfigurationType">
-        <watch expression="b" />
-      </configuration>
-    </watches-manager>
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/page/omsPage/login.py</url>
+          <line>2</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/base/basePage.py</url>
+          <line>2</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/webUIProject$Unittests_for_test1_login_TestLogin_test7_login_null_pwd.coverage" NAME="Unittests for test1_login.TestLogin.test7_login_null_pwd Coverage Results" MODIFIED="1563174138714" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase/omsTestCase" />
-    <SUITE FILE_PATH="coverage/untitled1$debugger.coverage" NAME="debugger Coverage Results" MODIFIED="1562980424558" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase" />
-    <SUITE FILE_PATH="coverage/webUIProject$Unittests_in_test_userManage_py.coverage" NAME="Unittests in test_userManage.py Coverage Results" MODIFIED="1563157327704" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase/omsTestCase" />
-    <SUITE FILE_PATH="coverage/untitled1$readXML.coverage" NAME="readXML Coverage Results" MODIFIED="1562907216847" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/utils" />
-    <SUITE FILE_PATH="coverage/webUIProject$Unittests_for_tianhuatest_Pinzhitest1_testPlan.coverage" NAME="Unittests for tianhuatest.Pinzhitest1.testPlan Coverage Results" MODIFIED="1563008140806" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase" />
-    <SUITE FILE_PATH="coverage/webUIProject$Unittests_for_test1_login_Login_testcase1_login_success.coverage" NAME="Unittests for test1_login.Login.testcase1_login_success Coverage Results" MODIFIED="1563165482766" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase/omsTestCase" />
-    <SUITE FILE_PATH="coverage/untitled1$pytest_for_testCase01_WebPcLogin.coverage" NAME="pytest for testCase01.WebPcLogin Coverage Results" MODIFIED="1562898951612" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase" />
-    <SUITE FILE_PATH="coverage/webUIProject$Unittests_for_test1_login_TestLogin_test2_login_wrong_both.coverage" NAME="Unittests for test1_login.TestLogin.test2_login_wrong_both Coverage Results" MODIFIED="1563172780523" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase/omsTestCase" />
-    <SUITE FILE_PATH="coverage/webUIProject$Unittests_for_test1_login_Login.coverage" NAME="Unittests for test1_login.Login Coverage Results" MODIFIED="1563165552816" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase/omsTestCase" />
-    <SUITE FILE_PATH="coverage/webUIProject$Unittests_for_test1_login_Login_test_login_success.coverage" NAME="Unittests for test1_login.Login.test_login_success Coverage Results" MODIFIED="1563165683524" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase/omsTestCase" />
-    <SUITE FILE_PATH="coverage/untitled1$pytest_for_testCase01_WebPcLogin_test_webPcLogin01.coverage" NAME="pytest for testCase01.WebPcLogin.test_webPcLogin01 Coverage Results" MODIFIED="1562912646923" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase" />
-    <SUITE FILE_PATH="coverage/webUIProject$Unittests_in_init_py.coverage" NAME="Unittests in init.py Coverage Results" MODIFIED="1563246621111" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/page/omsPage" />
-    <SUITE FILE_PATH="coverage/webUIProject$Unittests_for_test1_login_TestLogin_test6_login_null_username.coverage" NAME="Unittests for test1_login.TestLogin.test6_login_null_username Coverage Results" MODIFIED="1563174112873" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase/omsTestCase" />
-    <SUITE FILE_PATH="coverage/untitled1$pytest_in_testCase01_py.coverage" NAME="pytest in testCase01.py Coverage Results" MODIFIED="1562979747374" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase" />
-    <SUITE FILE_PATH="coverage/webUIProject$Unittests_for_test_userManage_TestUserManage.coverage" NAME="Unittests for test_userManage.TestUserManage Coverage Results" MODIFIED="1563161297163" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase/omsTestCase" />
-    <SUITE FILE_PATH="coverage/webUIProject$Unittests_in_tianhuatest_py.coverage" NAME="Unittests in tianhuatest.py Coverage Results" MODIFIED="1563006824682" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase" />
-    <SUITE FILE_PATH="coverage/webUIProject$Unittests_for_tianhuatest_Pinzhitest1.coverage" NAME="Unittests for tianhuatest.Pinzhitest1 Coverage Results" MODIFIED="1563006800058" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase" />
-    <SUITE FILE_PATH="coverage/webUIProject$Unittests_for_test1_login_TestLogin_test8_login_remenber.coverage" NAME="Unittests for test1_login.TestLogin.test8_login_remenber Coverage Results" MODIFIED="1563175668828" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase/omsTestCase" />
-    <SUITE FILE_PATH="coverage/webUIProject$run.coverage" NAME="run Coverage Results" MODIFIED="1563865679493" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/webUIProject$Unittests_for_test_userManage_TestUserManage_test_addUser.coverage" NAME="Unittests for test_userManage.TestUserManage.test_addUser Coverage Results" MODIFIED="1563160113301" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase/omsTestCase" />
-    <SUITE FILE_PATH="coverage/webUIProject$Unittests_for_test1_login_TestLogin_test8_login_remember.coverage" NAME="Unittests for test1_login.TestLogin.test8_login_remember Coverage Results" MODIFIED="1563175971652" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase/omsTestCase" />
-    <SUITE FILE_PATH="coverage/webUIProject$Unittests_in_test1_login_py.coverage" NAME="Unittests in test1_login.py Coverage Results" MODIFIED="1563866940442" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase/omsTestCase" />
-    <SUITE FILE_PATH="coverage/webUIProject$Unittests_for_test1_login_TestLogin_test1_login_success.coverage" NAME="Unittests for test1_login.TestLogin.test1_login_success Coverage Results" MODIFIED="1563247386058" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase/omsTestCase" />
-    <SUITE FILE_PATH="coverage/untitled1$run.coverage" NAME="run Coverage Results" MODIFIED="1562987012347" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/webUIProject$Unittests_in_test2_userManage_py.coverage" NAME="Unittests in test2_userManage.py Coverage Results" MODIFIED="1563170609367" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase/omsTestCase" />
-    <SUITE FILE_PATH="coverage/webUIProject$Unittests_for_test1_login_TestLogin.coverage" NAME="Unittests for test1_login.TestLogin Coverage Results" MODIFIED="1563173926571" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase/omsTestCase" />
-    <SUITE FILE_PATH="coverage/webUIProject$Unittests_for_test2_userManage_TestUserManage_testcase1_addUser.coverage" NAME="Unittests for test2_userManage.TestUserManage.testcase1_addUser Coverage Results" MODIFIED="1563180157196" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase/omsTestCase" />
-    <SUITE FILE_PATH="coverage/webUIProject$Unittests_for_test1_login_TestLogin_test_login_success.coverage" NAME="Unittests for test1_login.TestLogin.test_login_success Coverage Results" MODIFIED="1563165813056" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase/omsTestCase" />
-    <SUITE FILE_PATH="coverage/webUIProject$Unittests_for_test1_login_TestLogin_test4_login_wrong_pwd.coverage" NAME="Unittests for test1_login.TestLogin.test4_login_wrong_pwd Coverage Results" MODIFIED="1563173194447" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase/omsTestCase" />
+    <SUITE FILE_PATH="coverage/webUIProject$Unittests_in_test5_merchantManage_merchant_py.coverage" NAME="Unittests in test5_merchantManage_merchant.py Coverage Results" MODIFIED="1565260511581" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase/omsTestCase" />
+    <SUITE FILE_PATH="coverage/webUIProject$Unittests_in_test4_operatorManage_py.coverage" NAME="Unittests in test4_operatorManage.py Coverage Results" MODIFIED="1565248548818" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase/omsTestCase" />
+    <SUITE FILE_PATH="coverage/webUIProject$run.coverage" NAME="run Coverage Results" MODIFIED="1564537302739" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/webUIProject$Unittests_for_test1_login_TestLogin_test3_login_wrong_username.coverage" NAME="Unittests for test1_login.TestLogin.test3_login_wrong_username Coverage Results" MODIFIED="1564538574004" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase/omsTestCase" />
+    <SUITE FILE_PATH="coverage/webUIProject$Unittests_in_test3_userManageOperator_py.coverage" NAME="Unittests in test3_userManageOperator.py Coverage Results" MODIFIED="1565161584351" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase/omsTestCase" />
+    <SUITE FILE_PATH="coverage/webUIProject$Unittests_in_test1_login_py.coverage" NAME="Unittests in test1_login.py Coverage Results" MODIFIED="1564539024138" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase/omsTestCase" />
+    <SUITE FILE_PATH="coverage/webUIProject$Unittests_for_test4_operatorManage_TestOperatorManage_test02_search.coverage" NAME="Unittests for test4_operatorManage.TestOperatorManage.test02_search Coverage Results" MODIFIED="1565227733461" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase/omsTestCase" />
+    <SUITE FILE_PATH="coverage/webUIProject$Unittests_for_test3_userManageOperator_TestOperatorUserManager_test01_addOperatorUser.coverage" NAME="Unittests for test3_userManageOperator.TestOperatorUserManager.test01_addOperatorUser Coverage Results" MODIFIED="1565150622072" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase/omsTestCase" />
+    <SUITE FILE_PATH="coverage/webUIProject$Unittests_for_test1_login_TestLogin_test2_login_wrong_both.coverage" NAME="Unittests for test1_login.TestLogin.test2_login_wrong_both Coverage Results" MODIFIED="1564538608053" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase/omsTestCase" />
+    <SUITE FILE_PATH="coverage/webUIProject$Unittests_in_test2_userManage_py.coverage" NAME="Unittests in test2_userManage.py Coverage Results" MODIFIED="1564567982062" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase/omsTestCase" />
+    <SUITE FILE_PATH="coverage/webUIProject$Unittests_for_test1_login_TestLogin.coverage" NAME="Unittests for test1_login.TestLogin Coverage Results" MODIFIED="1564538486166" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase/omsTestCase" />
+    <SUITE FILE_PATH="coverage/webUIProject$Unittests_for_test2_userManage_TestUserManage_testcase1_addUser.coverage" NAME="Unittests for test2_userManage.TestUserManage.testcase1_addUser Coverage Results" MODIFIED="1564544074124" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase/omsTestCase" />
+    <SUITE FILE_PATH="coverage/webUIProject$Unittests_for_test2_userManage_TestUserManage_testcase3_resetPwd.coverage" NAME="Unittests for test2_userManage.TestUserManage.testcase3_resetPwd Coverage Results" MODIFIED="1564541251510" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase/omsTestCase" />
+    <SUITE FILE_PATH="coverage/webUIProject$Unittests_for_test2_userManage_TestUserManage_testCase5_change_user.coverage" NAME="Unittests for test2_userManage.TestUserManage.testCase5_change_user Coverage Results" MODIFIED="1564558808210" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase/omsTestCase" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/../../software/Anaconda3/Lib/site-packages/selenium/webdriver/common/actions/key_actions.py">
+    <entry file="file://$PROJECT_DIR$/testCase/__init__.py" />
+    <entry file="file://$PROJECT_DIR$/testCase/testCase01.py" />
+    <entry file="file://$PROJECT_DIR$/helloworld.txt" />
+    <entry file="file://$PROJECT_DIR$/run.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="607">
-          <caret line="38" column="8" selection-start-line="38" selection-start-column="8" selection-end-line="38" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../software/Anaconda3/Lib/xml/dom/minidom.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="1772" column="29" selection-start-line="1772" selection-start-column="29" selection-end-line="1772" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/report/2019-07-12 14_49_57report.html" />
-    <entry file="file://$PROJECT_DIR$/HTMLTestRunner.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="212">
-          <caret line="705" column="8" selection-start-line="705" selection-start-column="8" selection-end-line="705" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/testCase/debugger.py" />
-    <entry file="file://$PROJECT_DIR$/testCase/temp01.py" />
-    <entry file="file://$PROJECT_DIR$/../../software/Anaconda3/Lib/site-packages/assertpy/assertpy.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1824">
-          <caret line="86" column="4" selection-start-line="86" selection-start-column="4" selection-end-line="86" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/page/operationManager/sysMaintenance.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="336">
-          <caret line="15" column="8" selection-start-line="15" selection-start-column="8" selection-end-line="15" selection-end-column="8" />
+        <state relative-caret-position="784">
+          <caret line="28" column="26" lean-forward="true" selection-start-line="28" selection-start-column="26" selection-end-line="28" selection-end-column="26" />
           <folding>
-            <element signature="e#42#69#0" expanded="true" />
+            <element signature="e#53#62#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../../software/Anaconda3/Lib/site-packages/selenium/webdriver/remote/webdriver.py">
+    <entry file="file://$PROJECT_DIR$/../../software/Anaconda3/Lib/site-packages/selenium/webdriver/chrome/webdriver.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15720">
-          <caret line="671" column="8" selection-start-line="671" selection-start-column="8" selection-end-line="671" selection-end-column="8" />
+        <state relative-caret-position="230">
+          <caret line="32" column="8" selection-start-line="32" selection-start-column="8" selection-end-line="32" selection-end-column="8" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/testCase/tianhuatest.py">
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3/unittest/__init__.pyi">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="16" column="28" lean-forward="true" selection-start-line="16" selection-start-column="28" selection-end-line="16" selection-end-column="28" />
-          <folding>
-            <element signature="e#0#15#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/__init__.py" />
-    <entry file="file://$PROJECT_DIR$/data1111/data.xml" />
-    <entry file="file://$PROJECT_DIR$/page/__init__.py" />
-    <entry file="file://$PROJECT_DIR$/testCase/testCase01.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="192">
-          <caret line="11" column="16" lean-forward="true" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/page/webPage/p_home.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-264">
-          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
-          <folding>
-            <element signature="e#42#69#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/testCase/__init__.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/page/webPage/p_title.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="336">
-          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
-          <folding>
-            <element signature="e#42#69#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/page/webPage/p_login.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="504">
-          <caret line="21" column="8" selection-start-line="21" selection-start-column="8" selection-end-line="21" selection-end-column="8" />
-          <folding>
-            <element signature="e#23#50#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/page/webPage/init.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="14" column="26" lean-forward="true" selection-start-line="14" selection-start-column="26" selection-end-line="14" selection-end-column="26" />
-          <folding>
-            <element signature="e#23#53#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="179">
+          <caret line="44" column="8" selection-start-line="44" selection-start-column="8" selection-end-line="44" selection-end-column="8" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/base/__init__.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/../../software/Anaconda3/Lib/site-packages/selenium/webdriver/support/event_firing_webdriver.py">
+    <entry file="file://$PROJECT_DIR$/testCase/omsTestCase/test1_login.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="153" column="8" selection-start-line="153" selection-start-column="8" selection-end-line="153" selection-end-column="8" />
+        <state relative-caret-position="1688">
+          <caret line="83" column="21" lean-forward="true" selection-start-line="83" selection-start-column="21" selection-end-line="83" selection-end-column="21" />
+          <folding>
+            <element signature="e#42#74#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../software/Anaconda3/Lib/site-packages/pywinauto/controls/menuwrapper.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1185">
+          <caret line="335" lean-forward="true" selection-start-line="335" selection-end-line="335" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/data.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="15" column="30" selection-start-line="15" selection-start-column="30" selection-end-line="15" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/utils/readXML.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="321">
+          <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testCase/omsTestCase/test2_userManage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3780">
+          <caret line="137" column="21" selection-start-line="137" selection-start-column="21" selection-end-line="137" selection-end-column="21" />
+          <folding>
+            <element signature="e#65#102#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../software/Anaconda3/Lib/site-packages/execjs/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="49" column="4" selection-start-line="49" selection-start-column="4" selection-end-line="49" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/page/omsPage/login.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="223">
+          <caret line="68" column="23" selection-start-line="68" selection-start-column="23" selection-end-line="68" selection-end-column="23" />
+          <folding>
+            <element signature="e#42#69#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/base/basePage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+          <folding>
+            <element signature="e#23#27#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/page/omsPage/init.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="15" column="32" selection-start-line="15" selection-start-column="32" selection-end-line="15" selection-end-column="32" />
+        <state relative-caret-position="357">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
           <folding>
             <element signature="e#23#53#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/utils/readXML.py">
+    <entry file="file://$PROJECT_DIR$/page/omsPage/merchantManage.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1104">
-          <caret line="47" column="34" selection-start-line="47" selection-start-column="34" selection-end-line="47" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/data.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="192">
-          <caret line="8" column="12" selection-start-line="8" selection-start-column="12" selection-end-line="8" selection-end-column="61" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/page/omsPage/login.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="576">
-          <caret line="26" column="16" lean-forward="true" selection-start-line="26" selection-start-column="16" selection-end-line="26" selection-end-column="16" />
+        <state relative-caret-position="189">
+          <caret line="17" column="40" selection-start-line="17" selection-start-column="40" selection-end-line="17" selection-end-column="40" />
           <folding>
-            <element signature="e#42#69#0" expanded="true" />
+            <element signature="e#63#90#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3/unittest/__init__.pyi">
+    <entry file="file://$PROJECT_DIR$/testCase/omsTestCase/test5_merchantManage_merchant.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="864">
-          <caret line="43" column="8" selection-start-line="43" selection-start-column="8" selection-end-line="43" selection-end-column="8" />
+        <state relative-caret-position="364">
+          <caret line="19" column="21" lean-forward="true" selection-start-line="19" selection-start-column="21" selection-end-line="19" selection-end-column="21" />
+          <folding>
+            <element signature="e#42#83#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testCase/omsTestCase/test4_operatorManage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="392">
+          <caret line="17" column="26" selection-start-line="17" selection-start-column="26" selection-end-line="17" selection-end-column="26" />
+          <folding>
+            <element signature="e#42#83#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/page/omsPage/operatorManage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="37" column="8" selection-start-line="37" selection-start-column="8" selection-end-line="37" selection-end-column="8" />
+          <folding>
+            <element signature="e#59#63#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testCase/omsTestCase/test3_userManageOperator.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="29" column="25" lean-forward="true" selection-start-line="29" selection-start-column="25" selection-end-line="29" selection-end-column="25" />
+          <folding>
+            <element signature="e#66#103#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/page/omsPage/userManage.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="600">
-          <caret line="28" selection-start-line="28" selection-end-line="28" />
+        <state relative-caret-position="385">
+          <caret line="177" column="21" lean-forward="true" selection-start-line="177" selection-start-column="21" selection-end-line="177" selection-end-column="21" />
           <folding>
             <element signature="e#42#69#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../../software/Anaconda3/Lib/site-packages/selenium/webdriver/common/by.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="528">
-          <caret line="22" column="6" selection-start-line="22" selection-start-column="6" selection-end-line="22" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/base/basePage.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="384">
-          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
-          <folding>
-            <element signature="e#23#104#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/testCase/omsTestCase/test2_userManage.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="15" selection-start-line="15" selection-end-line="15" />
-          <folding>
-            <element signature="e#42#74#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/run.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="125">
-          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
-          <folding>
-            <element signature="e#23#32#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/testCase/omsTestCase/test1_login.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="412">
-          <caret line="68" column="21" lean-forward="true" selection-start-line="68" selection-start-column="21" selection-end-line="68" selection-end-column="21" />
-          <folding>
-            <element signature="e#42#74#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-  </component>
-  <component name="masterDetails">
-    <states>
-      <state key="ScopeChooserConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-    </states>
   </component>
 </project>

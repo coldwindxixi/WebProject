@@ -200,8 +200,8 @@
         
     <div class='page-header'>
         <h1>UI自动化测试报告</h1>
-    <p class='attribute'><strong>开始时间:</strong> 2019-07-23 15:08:02</p>
-<p class='attribute'><strong>运行时长:</strong> 0:03:42.374719</p>
+    <p class='attribute'><strong>开始时间:</strong> 2019-07-31 09:41:43</p>
+<p class='attribute'><strong>运行时长:</strong> 0:03:42.193997</p>
 <p class='attribute'><strong>状态:</strong> 通过 1 错误 7</p>
 
     </div>
@@ -398,7 +398,7 @@ selenium.common.exceptions.ElementNotVisibleException: Message: element not visi
     <div id='div_ft1.6' class="popup_window">
         <pre>ft1.6: Traceback (most recent call last):
   File "E:\autotest\project\webUIProject\testCase\omsTestCase\test1_login.py", line 51, in test6_login_null_username
-    #     self.login('', '123')
+    self.login('', '123')
   File "E:\autotest\project\webUIProject\page\omsPage\login.py", line 57, in login
     self.typePassword(pwd)
   File "E:\autotest\project\webUIProject\page\omsPage\login.py", line 31, in typePassword
@@ -433,7 +433,7 @@ selenium.common.exceptions.ElementNotVisibleException: Message: element not visi
     <div id='div_ft1.7' class="popup_window">
         <pre>ft1.7: Traceback (most recent call last):
   File "E:\autotest\project\webUIProject\testCase\omsTestCase\test1_login.py", line 58, in test7_login_null_pwd
-    #     self.login('admin', '')
+    self.login('admin', '')
   File "E:\autotest\project\webUIProject\page\omsPage\login.py", line 57, in login
     self.typePassword(pwd)
   File "E:\autotest\project\webUIProject\page\omsPage\login.py", line 31, in typePassword
@@ -468,11 +468,11 @@ selenium.common.exceptions.ElementNotVisibleException: Message: element not visi
     <div id='div_ft1.8' class="popup_window">
         <pre>ft1.8: Traceback (most recent call last):
   File "E:\autotest\project\webUIProject\testCase\omsTestCase\test1_login.py", line 67, in test8_login_remember
-    #     self.login_remember(self.username, self.pwd)
+    self.login_remember(self.username, self.pwd)
   File "E:\autotest\project\webUIProject\page\omsPage\login.py", line 63, in login_remember
-    self.typePassword(pwd)
+    self.typeUsername(username)
   File "E:\autotest\project\webUIProject\page\omsPage\login.py", line 31, in typePassword
-    self.findElement(*self.pwd_loc).send_keys(pwd)
+    def typePassword(self, pwd):
   File "E:\autotest\software\Anaconda3\lib\site-packages\selenium\webdriver\remote\webelement.py", line 479, in send_keys
     'value': keys_to_typing(value)})
   File "E:\autotest\software\Anaconda3\lib\site-packages\selenium\webdriver\remote\webelement.py", line 633, in _execute

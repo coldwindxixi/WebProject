@@ -20,7 +20,8 @@ class Login(WebDriver, ReadXML):
     pwdNull_loc = (By.ID, 'password-error')
     """记住登录用户"""
     remember_loc = (By.ID, 'rememberMe')
-
+    """退出"""
+    logOut_loc = (By.ID, 'logout')
 
     """输入用户名"""
     def typeUsername(self, username):
@@ -30,6 +31,11 @@ class Login(WebDriver, ReadXML):
     def typePassword(self, pwd):
         self.findElement(*self.pwd_loc).send_keys(pwd)
 
+    """清空用户名密码"""
+    def clearLogin(self):
+        self.findElement(*self.username_loc).clear()
+        self.findElement(*self.pwd_loc).clear()
+
     """勾选记住登录用户"""
     def check_remember(self):
         self.findElement(*self.remember_loc).click()
@@ -38,6 +44,11 @@ class Login(WebDriver, ReadXML):
     @property
     def clickLogin(self):
         self.findElement(*self.btnLogin_loc).click()
+
+    """退出"""
+    @property
+    def logout(self):
+        self.findElement(*self.logOut_loc).click()
 
     """获取登录报错信息"""
     def getLoginMSG(self):

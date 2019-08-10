@@ -6,8 +6,14 @@
     <webpwd>13021302</webpwd>
     <loginErrorMsg msg1="用户名或密码错误"></loginErrorMsg>
 
-    <omsurl>http://192.168.1.222:8899/pzcatering-oms/login.do</omsurl>
+    <omsurl>http://localhost:8899/pzcatering-oms/login.do</omsurl>
     <omsUsername>admin</omsUsername>
     <omsPwd>123456</omsPwd>
-    <omsAfterLoginUrl>http://192.168.1.222:8899/pzcatering-oms/index.do</omsAfterLoginUrl>
+    <!--新增品智用户-->
+    <omsNewNo>123456</omsNewNo>
+    <omsNewUser>autoTest</omsNewUser>
+    <!--新增运营商用户-->
+    <omsNewOperatorNo>12345678</omsNewOperatorNo>
+    <omsNewOperatorUser>autoTestOperator</omsNewOperatorUser>
+    <omsAfterLoginUrl>http://localhost:8899/pzcatering-oms/index.do</omsAfterLoginUrl>
 </root>

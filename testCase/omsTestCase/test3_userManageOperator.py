@@ -1,24 +1,25 @@
 # -*-coding:UTF-8-*-
 # __author__ = 'gao'
-# 品智客户运维系统-用户管理-品智用户管理
+# 品智客户运维系统-用户管理-运营商用户管理
 from page.omsPage.userManage import *
 from page.omsPage.init import *
 import time
 
 
-class TestUserManage(Init, Login, UserManage):
+class TestOperatorUserManager(Init, Login, UserManage):
     # 类变量,调用类方法
-    newUser = ReadXML.getXMLDataCls('omsNewUser')
-    newUserNo = ReadXML.getXMLDataCls('omsNewNo')
+    newUser = ReadXML.getXMLDataCls('omsNewOperatorUser')
+    newUserNo = ReadXML.getXMLDataCls('omsNewOperatorNo')
 
-    """用例：添加用户-保存"""
-    def test01_addUser(self):
+    """用例：添加运营商用户-保存"""
+    def test01_addOperatorUser(self):
         # 登录，为使此py可单独运行
         self.username = self.getXMLData('omsUsername')
         self.pwd = self.getXMLData('omsPwd')
         self.login(self.username, self.pwd)
         time.sleep(2)
 
+        self.enter_opertor()
         # 查询用户，如果存在先删除
         result = self.search_by_username(self.newUser)
         time.sleep(3)
@@ -26,7 +27,7 @@ class TestUserManage(Init, Login, UserManage):
             self.delete_user()
 
         # 添加新用户
-        msg = self.addUser(self.newUserNo, self.newUser)
+        msg = self.add_operator(self.newUserNo, self.newUser)
         self.assertEqual('保存成功！', msg, "保存成功断言")
         time.sleep(2)
 
@@ -144,3 +145,4 @@ class TestUserManage(Init, Login, UserManage):
 
 if __name__ == '__main__':
     unittest.main(verbosity=2)
+
